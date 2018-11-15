@@ -13,6 +13,13 @@ public class ParamsController1 {
     public String saveAccount(Account account){
         System.out.println("执行了 ");
         System.out.println(account);
+		
+		
+		System.out.println(account);
+		System.out.println(account);
+		System.out.println(account);
+		
+		
         return "success";
     }
 
